@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to my GitHub account!
+> "There were 5 exabytes of information created between the dawn of civilization through 2003, but that much information is now created every two days."
+>
+><i>- Eric Schmidt, Executive Chairman at Google</i>
 
-<!--
-**rinat-data/rinat-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Data Analyst from Uzbekistan 🇺🇿
 
-Here are some ideas to get you started:
+### 💻 My skills:
+- Microsoft Excel
+- Google Sheets
+- MIcrosoft Power BI
+- SQL (SQLite3, PostgreSQL, MySQL)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 Contact me:
+<a href="mailto:rinat.data@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/rinat-data/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
