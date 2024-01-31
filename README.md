@@ -1,4 +1,4 @@
-# Welcome to my GitHub account!
+# Welcome to my GitHub profile!
 
 > "There were 5 exabytes of information created between the dawn of civilization through 2003, but that much information is now created every two days."
 >
