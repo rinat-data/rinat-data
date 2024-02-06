@@ -9,7 +9,7 @@
 ### 💻 My skills:
 - Microsoft Excel / Google Sheets
 - Microsoft Power BI / Tableau
-- SQL (SQLite3, PostgreSQL, MySQL)
+- SQL (PostgreSQL, MySQL)
 - Python 
 
 ### 📧 Contact me:
