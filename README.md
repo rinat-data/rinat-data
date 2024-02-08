@@ -7,10 +7,18 @@
 ### I'm a Data Analyst from Uzbekistan 🇺🇿
 
 ### 💻 My skills:
+
+#### Data Analysis
 - Microsoft Excel / Google Sheets
 - Microsoft Power BI / Tableau
 - SQL (PostgreSQL, MySQL)
-- Python 
+- Python
+
+#### Web Development
+- HTML, CSS (Bootstrap)
+- JavaScript (React)
+- Python (Django)
+- TEsting, CI/CD
 
 ### 📧 Contact me:
 <a href="mailto:rinat.data@gmail.com">
