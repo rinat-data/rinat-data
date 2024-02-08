@@ -9,7 +9,7 @@
 ### 💻 My skills:
 
 #### Data Analysis
-- Microsoft Excel / Google Sheets
+- Microsoft Excel (Pivot Tables)
 - Microsoft Power BI / Tableau
 - SQL (PostgreSQL, MySQL)
 - Python
