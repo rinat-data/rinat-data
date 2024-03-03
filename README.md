@@ -6,6 +6,8 @@
 >
 > <i>- Eric Schmidt, Executive Chairman at Google</i>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinat-data&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rinat-data&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -42,11 +44,3 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rinat-data/rinat-data/output/snake.svg" alt="Snake animation" />
-
-###
